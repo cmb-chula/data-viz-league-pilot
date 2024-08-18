@@ -34,7 +34,7 @@ Each submission will be evaluated on the 4 aspects listed below, each on a scale
 ## Schedule
 |  Activity |  Date  |  Submission Deadline  |  Evaluation  |  Revision Deadline  |
 |  :-:  |  :-:  |  :-:  |  :-:  |  :-:  |
-|  Round 1   |  Aug 18-Aug 31   |  Aug 31   |   Sep 7  |  Sep 14   |
+|  [Round 1](https://github.com/cmb-chula/data-viz-league-pilot/blob/main/round1.md)   |  Aug 18-Aug 31   |  Aug 31   |   Sep 7  |  Sep 14   |
 |  Round 2   |  Sep 15-Sep 30   |  Sep 30   |   Oct 7  |  Oct 14   |
 |  Round 3   |  Oct 15-Oct 31   |  Oct 31   |   Nov 7  |  Nov 14   |
 |  Round 4   |  Nov 15-Nov 30   |  Nov 30   |   Dec 7  |  Dec 14   |

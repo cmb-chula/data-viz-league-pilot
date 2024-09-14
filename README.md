@@ -8,6 +8,8 @@ Due to limited resource and referee availability, only selected participants wil
 
 If you are interested in joining our future event, please look forward to further announcement.
 
+`NEW` Here are some [prior submissions](https://github.com/cmb-chula/data-viz-league-pilot/blob/main/gallery.md). You may want to try creating your own works before viewing others' submissions.
+
 ## Format
 In each round, a small dataset, a presentation format, and a scope of the story to be presented will be posted.
 
@@ -35,7 +37,7 @@ Each submission will be evaluated on the 4 aspects listed below, each on a scale
 |  Activity |  Date  |  Submission Deadline  |  Evaluation  |  Revision Deadline  |
 |  :-:  |  :-:  |  :-:  |  :-:  |  :-:  |
 |  [Round 1](https://github.com/cmb-chula/data-viz-league-pilot/blob/main/round1.md)   |  Aug 18-Aug 31   |  Aug 31   |   Sep 7  |  Sep 14   |
-|  Round 2   |  Sep 15-Sep 30   |  Sep 30   |   Oct 7  |  Oct 14   |
+|  [Round 2](https://github.com/cmb-chula/data-viz-league-pilot/blob/main/round2.md)   |  Sep 15-Sep 30   |  Sep 30   |   Oct 7  |  Oct 14   |
 |  Round 3   |  Oct 15-Oct 31   |  Oct 31   |   Nov 7  |  Nov 14   |
 |  Round 4   |  Nov 15-Nov 30   |  Nov 30   |   Dec 7  |  Dec 14   |
 |  Closing   |  Dec 15   |     |     |     |

@@ -8,7 +8,7 @@ Due to limited resource and referee availability, only selected participants wil
 
 If you are interested in joining our future event, please look forward to further announcement.
 
-`NEW` Here are some [prior submissions](https://github.com/cmb-chula/data-viz-league-pilot/blob/main/gallery.md). You may want to try creating your own works before viewing others' submissions.
+`NEW` Here are some [prior submissions](https://github.com/cmb-chula/data-viz-league-pilot/blob/main/gallery.md). You may want to try creating your own works before viewing others'.
 
 ## Format
 In each round, a small dataset, a presentation format, and a scope of the story to be presented will be posted.
